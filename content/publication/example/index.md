@@ -33,9 +33,10 @@ url_pdf: ""
 publication_types:
   - "2"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: evo_1029_f3.gif
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -45,7 +46,7 @@ url_source: ""
 url_video: ""
 publication: Evolution
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-05-24T10:21:19.639Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""

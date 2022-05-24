@@ -1,9 +1,9 @@
 ---
 title: "Investigating Evolutionary Trade-Offs in Wild Populations of Atlantic
-  Salmon (*Salmo Salar*): Incorporating Detection Probabilities and Individual
+  Salmon (Salmo Salar): Incorporating Detection Probabilities and Individual
   Heterogeneity"
 authors:
-  - "**Buoro M.**"
+  - Buoro M.
   - Prévost E. and O. Gimenez
 author_notes: []
 publication_short: ""

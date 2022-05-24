@@ -1,6 +1,6 @@
 ---
-title: Mathieu Buoro
 role: Research scientist
+avatar_filename: img_20211222_100254-petite.png
 bio: My research interests include eco-evolutionary dynamics, life history
   strategies and dispersal.
 interests:
@@ -27,9 +27,10 @@ organizations:
     url: https://www.ecobiop.com/
 education:
   courses: []
-email: ""
 superuser: true
 highlight_name: true
+title: Mathieu Buoro
+email: ""
 ---
 
 Understanding the origin of life history variations of organisms, and then their capacity of adaptation to environmental change, requires studying life history strategies and evolutionary processes that drive them. My primary research goals are directed toward investigating _eco-evolutionary dynamics_ and the impacts on demography _evolutionary demography_. It involves exploring _life history evolution_, _dispersal strategies_ and associated _evolutionary processes_ in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  

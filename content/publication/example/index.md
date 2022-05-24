@@ -2,10 +2,12 @@
 title: "Investigating Evolutionary Trade-Offs in Wild Populations of Atlantic
   Salmon (Salmo Salar): Incorporating Detection Probabilities and Individual
   Heterogeneity"
+subtitle: "2010"
 authors:
   - Buoro M.
   - Prévost E. and O. Gimenez
 author_notes: []
+doi: 10.1111/j.1558-5646.2010.01029.x
 publication_short: ""
 abstract: "Evolutionary trade-offs among demographic parameters are important
   determinants of life-history evolution. Investigating such trade-offs under
@@ -35,11 +37,9 @@ publication_types:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -51,7 +51,6 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: 10.1111/j.1558-5646.2010.01029.x
 ---
 
 {{% callout note %}}

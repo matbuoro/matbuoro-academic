@@ -7,9 +7,9 @@ interests:
   - demo-genetic individual based model
   - Bayesian hierarchical model
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mathieu.buoro@inrae.fr
+#  - icon: envelope
+#    icon_pack: fas
+#    link: mathieu.buoro@inrae.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/matbuoro
@@ -38,11 +38,11 @@ highlight_name: true
 title: Mathieu Buoro
 email: ""
 ---
-My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on climate change on salmonid species. 
+My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on climate change on salmonid species.
 
 I am particularly interested in *life history evolution*, *dispersal strategies* and associated *evolutionary processes* in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
 
-I like confronting theories and concepts in evolutionary biology with observational data through appropriate statistical tools. For that purpose, I use Hierarchical Bayesian Modeling (state-space modeling, structural equation modeling, and quantitative genetics methods). 
+I like confronting theories and concepts in evolutionary biology with observational data through appropriate statistical tools. For that purpose, I use Hierarchical Bayesian Modeling (state-space modeling, structural equation modeling, and quantitative genetics methods).
 
 I also develop demo-genetic Individual-Based Model to investigate the potential responses of salmonid populations to climate change and selective exploitation, and  explore management strategies to foster the adaptation and resilience of these natural ressources.
 

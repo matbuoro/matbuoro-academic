@@ -25,7 +25,7 @@ experience:
   - title: Research scientist
     company: INRAE
     company_url: ''
-    company_logo: Logo-INRAE
+    company_logo: org-x
     location: France
     date_start: '2015-12-01'
     date_end: ''

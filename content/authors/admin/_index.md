@@ -1,6 +1,6 @@
 ---
 role: Research scientist
-avatar_filename: img_20211222_100254.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include eco-evolutionary dynamics, life history
   strategies and dispersal.
 interests:

@@ -45,16 +45,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/matbuoro
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Vfs6xloAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/matbuoro
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/0000-0001-7053-3767
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +70,12 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Understanding the origin of life history variations of organisms, and then their capacity of adaptation to environmental change, requires studying life history strategies and evolutionary processes that drive them. My primary research goals are directed toward investigating _eco-evolutionary dynamics_ and the impacts on demography _evolutionary demography_. It involves exploring _life history evolution_, _dispersal strategies_ and associated _evolutionary processes_ in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+I'm particularly interested by _integrative approach_, e.g. integrating within a single and coherent framework demography, evolutionary processes such as life history decisions and evolutionary trade-offs, while explicitly represent the underlying mechanisms that generate our observations (e.g. physiological mechanisms or capture processes).  
+
+
+For that purpose, I developed skills in quantitative biology, including familiarity with Individual-Based Modeling and Hierarchical Bayesian Modeling to explore complex models (state-space modeling, structural equation modeling, and quantitative genetics methods). Within these frameworks, one can confront theories and concepts in evolutionary biology with observational data through appropriate statistical tools.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -38,7 +38,7 @@ highlight_name: true
 title: Mathieu Buoro
 email: ""
 ---
-Understanding the origin of life history variations of organisms, and then their capacity of adaptation to environmental change, requires studying life history strategies and evolutionary processes that drive them. My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on demography *evolutionary demography*. It involves exploring *life history evolution*, *dispersal strategies* and associated *evolutionary processes* in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
+My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on demography *evolutionary demography*. It involves exploring *life history evolution*, *dispersal strategies* and associated *evolutionary processes* in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
 
 I'm particularly interested by *integrative approach*, e.g. integrating within a single and coherent framework demography, evolutionary processes such as life history decisions and evolutionary trade-offs, while explicitly represent the underlying mechanisms that generate our observations (e.g. physiological mechanisms or capture processes).  
 

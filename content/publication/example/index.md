@@ -36,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: evo_1029_f3.gif
+  filename: featured.gif
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.

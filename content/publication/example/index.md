@@ -36,7 +36,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.gif
+  filename: featured.jpg
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.

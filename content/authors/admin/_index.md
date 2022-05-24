@@ -38,10 +38,12 @@ highlight_name: true
 title: Mathieu Buoro
 email: ""
 ---
-My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on demography *evolutionary demography*. It involves exploring *life history evolution*, *dispersal strategies* and associated *evolutionary processes* in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
+My primary research goals are directed toward investigating *eco-evolutionary dynamics* and the impacts on climate change on salmonid species. 
 
-I'm particularly interested by *integrative approach*, e.g. integrating within a single and coherent framework demography, evolutionary processes such as life history decisions and evolutionary trade-offs, while explicitly represent the underlying mechanisms that generate our observations (e.g. physiological mechanisms or capture processes).  
+I am particularly interested in *life history evolution*, *dispersal strategies* and associated *evolutionary processes* in the wild such as selective survival, evolutionary trade-offs (e.g., cost of reproduction) and phenotypic plasticity (e.g., conditional strategies).  
 
-For that purpose, I developed skills in quantitative biology, including familiarity with Individual-Based Modeling and Hierarchical Bayesian Modeling to explore complex models (state-space modeling, structural equation modeling, and quantitative genetics methods). Within these frameworks, one can confront theories and concepts in evolutionary biology with observational data through appropriate statistical tools.  
+I like confronting theories and concepts in evolutionary biology with observational data through appropriate statistical tools. For that purpose, I use Hierarchical Bayesian Modeling (state-space modeling, structural equation modeling, and quantitative genetics methods). 
+
+I also develop demo-genetic Individual-Based Model to investigate the potential responses of salmonid populations to climate change and selective exploitation, and  explore management strategies to foster the adaptation and resilience of these natural ressources.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.icloud.com/iclouddrive/05es9iEUhS7oGaK8Vby3w5xpQ#CV-Buoro-2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

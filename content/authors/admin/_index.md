@@ -26,7 +26,13 @@ organizations:
   - name: INRAE
     url: https://www.ecobiop.com/
 education:
-  courses: []
+  courses:
+    - course: Ph.D, Population biology and Evolutionary Ecology
+      institution: University of Montpellier II, France
+    - course: Master of Evolutionary Biology and Ecology
+      institution: University of Montpellier II, France
+    - course: Master of Aquatic ecosystem dynamics
+      institution: University of Pau and Pays Adour (UPPA), France
 superuser: true
 highlight_name: true
 title: Mathieu Buoro
